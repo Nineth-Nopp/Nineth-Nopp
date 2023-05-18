@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Hi there! I'm nine (actilly name 😅) I can website, mobile and game developing 😎.
+
+But now I still learning more to be better ❤.
+
 <!--
 **Nineth-Nopp/Nineth-Nopp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
