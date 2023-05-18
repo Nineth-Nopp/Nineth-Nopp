@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-Hi there! I'm nine (actilly name 😅) I can website, mobile and game developing 😎.
+Hi there! I'm nine (actilly name 😅).
 
+I can website, mobile and game developing 😎.
 But now I still learning more to be better ❤.
 
 <!--
